@@ -1,7 +1,7 @@
 {
   "name": "ng2-sidebar",
   "version": "1.8.1",
-  "description": "A sidebar component for Angular 2.",
+  "description": "[DEPRECATED] Renamed to ng-sidebar.",
   "repository": {
     "type": "git",
     "url": "https://github.com/arkon/ng2-sidebar.git"
